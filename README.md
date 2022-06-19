@@ -1,3 +1,3 @@
-## Spring Boot Application
+## Springboot app
 
-My Spring Boot CRUD application with Spring MVC – Spring Data JPA – ThymeLeaf - Hibernate - MySQL
+Scrap app w/ MVC – Spring Data JPA – ThymeLeaf - Hibernate - MySQL
